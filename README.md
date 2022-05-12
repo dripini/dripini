@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dripini" alt="dripini" /></a> </p>
 
-- 🔭 I’m currently working on **Dealer, a discord**
+- 🔭 I’m currently working on **Dealer, a discord bot with lots of fun, moderative and currency features!**
 
 - 🌱 I’m currently learning **Javascript (Node.js)**
 
